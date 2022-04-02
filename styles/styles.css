@@ -127,9 +127,11 @@ li a:hover {
 
 .project-header {
   text-align: center;
-  margin: 2%;
+  margin: 5%;
   font-size: 1.5rem;
   color: rgb(0, 0, 0);
+  background-color: #eeeeee4b;
+  border-radius: 50;
 }
 
 .project-container {
@@ -213,7 +215,7 @@ li a:hover {
   margin: 0;
   padding: 0;
   text-align: center;
-  color: black
+  color: black;
 }
 
 .project-container .card .face.face2 .content h3 {
